@@ -4,7 +4,7 @@ This is a future project, user can archive a webpage by requesting the domain na
 # Project Details
 
 #### Project Name: Web Archive
-#### Project Brief: This is a tool to take web page archive by requesting the domain name. <br>
+#### Project Brief: This is a tool to take web page archive by requesting the domain name.
 #### Project Similartiy: This will be a similar project like Google Web Cache or Archive.org. <br>
 #### Project Features: 
 - User can create web page archive of a domain by inputting the domain name.
