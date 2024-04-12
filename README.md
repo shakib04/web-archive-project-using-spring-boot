@@ -1,4 +1,4 @@
-# web-archive-on-spring-boot
+# web-archive-project-using-spring-boot
 This is a future project, user can archive a webpage by requesting the domain name.
 
 # Project Details
