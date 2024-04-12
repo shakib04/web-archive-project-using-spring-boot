@@ -12,7 +12,7 @@ This is a future project, user can archive a webpage by requesting the domain na
 - User can list multiple web page for taking the archive on a schedule basis.
 - User can manage the list and stop the schdule process for particular web page.
 - User can see the web archive on a calendar selection view to see the last updated page on a particular date.
-- User can differ 02 web archives on side by side. <br>
+- User can differ 02 web archives on side by side.
 - More features comming or create a issue to add a feature request
 
 # Project's System Design
